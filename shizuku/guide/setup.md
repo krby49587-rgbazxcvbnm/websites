@@ -103,7 +103,7 @@ Copy the command and paste into the terminal. If there is no problem, you will s
 ```
 adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh
 ```
-:::
+:::g
 
 ## FAQ
 
